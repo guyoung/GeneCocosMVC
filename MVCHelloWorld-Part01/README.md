@@ -73,6 +73,25 @@ Browserify是NPM在前端项目里延伸的神器，有了它之后,前后端可
     - res
     - index.html
 - node_modules
+
+## 开发环境
+
+IDE：
+
+- WebStorm
+
+编译运行：
+
+- Node.js
+- Browserify
+- UglifyJS
+
+JavaScript库：
+
+- Cocos2d-js（single js file ） <http://www.cocos2d-x.org/filecenter/jsbuilder/>
+- PureMVC
+- Underscore.js
+- GNU ease.js
     
 ## 源代码
 
