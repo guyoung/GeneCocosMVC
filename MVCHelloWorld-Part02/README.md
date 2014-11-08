@@ -101,7 +101,7 @@ calcu.js文件也可以拿到Node.js里去引用，因为它遵守commonjs规范
 
 ## 源代码
 
-- 本文代码：https://github.com/guyoung/GeneCocosMVC/tree/master/MVCHelloWorld-Part03
+- 本文代码：https://github.com/guyoung/GeneCocosMVC/tree/master/MVCHelloWorld-Part02
 - 项目地址：https://github.com/guyoung/GeneCocosMVC
 
 ### 编译及运行
