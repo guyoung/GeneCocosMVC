@@ -9,11 +9,12 @@ Cocos2d-js MVC
 
 
 
------------------
+------------------------------------------------
+
+<https://github.com/guyoung/GeneCocosMVC>
 
 By Guyoung Studio 
 
-<guyoung@aliyun.com>
-
 <http://www.guyoung.net>
+
 
