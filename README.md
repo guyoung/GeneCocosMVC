@@ -17,10 +17,15 @@ Cocos2d-js MVC
 
 ## 链接
 
-- Demo：<http://genecocosmvc.coding.io/>
-- Issues：<https://github.com/guyoung/GeneCocosMVC/issues>
-- Wiki：<https://github.com/guyoung/GeneCocosMVC/wiki>
-- Email：&#103;&#117;&#121;&#111;&#117;&#110;&#103;&#64;&#97;&#108;&#105;&#121;&#117;&#110;&#46;&#99;&#111;&#109;
+<p>
+<ul>
+    <li>Demo：<a href="http://genecocosmvc.coding.io/">http://genecocosmvc.coding.io</a></li>
+    <li>Issues：<a href="https://github.com/guyoung/GeneCocosMVC/issues">https://github.com/guyoung/GeneCocosMVC/issues</a></li>
+    <li>Wiki：<a href="https://github.com/guyoung/GeneCocosMVC/wiki">https://github.com/guyoung/GeneCocosMVC/wiki</a></li>
+    <li>Email：<a href="&#x6D;&#x61;i&#x6C;&#x74;&#x6F;:&#x67;&#x75;&#x79;&#x6f;&#x75;&#x6e;&#x67;&#x40;&#x61;&#x6c;&#x69;&#x79;&#x75;&#x6e;&#x2e;&#x63;&#x6f;&#x6d;">&#x67;&#x75;&#x79;&#x6f;&#x75;&#x6e;&#x67;&#x40;&#x61;&#x6c;&#x69;&#x79;&#x75;&#x6e;&#x2e;&#x63;&#x6f;&#x6d;</a></li>
+</ul>
+</p>
+
 
 ------------------------------------------------
 
