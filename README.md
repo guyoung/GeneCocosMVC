@@ -28,6 +28,8 @@ Cocos2d-js MVC
 
 By Guyoung Studio 
 
+<guyoung@aliyun.com>
+
 <http://www.guyoung.net>
 
 
