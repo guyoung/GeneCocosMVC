@@ -36,6 +36,8 @@ PureMVC 是在基于模型、视图和控制器 MVC 模式建立的一个轻量�
 
 ### Facade
 
+PureMVC中有一个单例模式类——Facade，Facade提供了与核心层通信的唯一接口，以简化开发复杂度。
+
 Facade子类——AppFacade.js
 
     var AppFacade = module.exports = puremvc.define(
@@ -81,7 +83,22 @@ Facade子类——AppFacade.js
     
 类方法getInstance用于返回AppFacade的单例。Facade是pureMVC的核心，标准版的Facade只会存在一个，多核版本Facade会有多个，它的实例会在instanceMap中保存。
 
+PureMVC已经在框架内部实现了Observer/Notification机制，只需要使用一个非常简单的方法从Proxy, Mediator, Command和Facade发送Notification，甚至不需要创建一个Notification实例。
 
+Facade保存了Command与Notification之间的映射。当Notification（通知）被发出时，对应的Command（命令）就会自动地由Controller执行。
+
+创建的Facade子类被用来简化“启动”的过程。应用程序调用Facade子类的startup方法，并传递自身的一个引用即完成启动，使得应用程序不需要过多了解PureMVC。
+
+
+
+PrepModelCommand
+
+创建Proxy对象，并注册。
+
+
+PrepViewCommand
+
+创建Mediator们，并把它注册到View.
 
 ### Model
 
@@ -227,7 +244,7 @@ Command子类——StartupCommand.js
         AppFacade.getInstance(key).startup();
     })();
 
-
+程序运行时，得到ApplicationFaçade实例，调用它的startup方法。
 
 ## 源代码
 
