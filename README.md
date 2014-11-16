@@ -20,7 +20,7 @@ Cocos2d-js MVC
 - Demo：<http://genecocosmvc.coding.io/>
 - Issues：<https://github.com/guyoung/GeneCocosMVC/issues>
 - Wiki：<https://github.com/guyoung/GeneCocosMVC/wiki>
-- Email：<guyoung@aliyun.com>
+- Email：guyoung#aliyun.com
 
 ------------------------------------------------
 
