@@ -27,4 +27,4 @@ https://github.com/guyoung/GeneCocosMVC/issues
 
 **Guyoung Studio**
  + Homepage: <a href="http://www.guyoung.net" target="_blank">http://www.guyoung.net</a>
- + Email:    <a href="mailto:&#103;&#117;&#121;&#111;&#117;&#110;&#103;&#64;&#97;&#108;&#105;&#121;&#117;&#110;&#46;&#99;&#111;&#109;" target="_blank">guyoung[at]aliyun.com</a>
+ + Email:    <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%67%75%79%6f%75%6e%67@%61%6c%69%79%75%6e.%63%6f%6d" target="_blank">guyoung[at]aliyun.com</a>
