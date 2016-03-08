@@ -1,0 +1,21 @@
+body
+{
+    margin: 0px;
+}
+
+.wrap {
+    width: 960px;
+    margin:0px auto;
+}
+
+.block1
+{
+    padding: 40px 15px;
+}
+
+
+.footer {
+    width: 960px;
+    position:absolute;
+    bottom:0px;
+}
