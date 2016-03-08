@@ -19,7 +19,7 @@ MVC主要把逻辑层和表现层进行了解耦，将一个问题划分成了�
 
 PureMVC 是在基于模型、视图和控制器 MVC 模式建立的一个轻量级的应用框架，这是一个开源框架，它最初是被用于 ActionScript 3 语言使用的 Adobe Flex、Flash 和 AIR 之上，现在已经移植到几乎所有主要的软件平台之上。
 
-![Alt PureMVC 框架示意图](/images/010.png)
+![Alt PureMVC 框架示意图](/images/020.png)
 
 ## 构造PureMVC应用
 
@@ -269,21 +269,17 @@ http-server
     node_modules\.bin\http-server.cmd
 
 
+## 参考
 
++ [PureMVC](http://puremvc.org/)
++ [browserify](http://browserify.org/)
++ [uglifyjs](http://lisperator.net/uglifyjs/)
 
-## 参见
-
-## 参考资料
-
-
-## 外部链接
 
 
 ------------------------------------------------
 
-<https://github.com/guyoung/GeneCocosMVC>
-
-By Guyoung Studio 
-
-<http://www.guyoung.net>
+**Guyoung Studio**
+ + Official Site: <a href="http://www.guyoung.net/" target="_blank">www.guyoung.net</a>
+ + Email:         <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%67%75%79%6f%75%6e%67@%61%6c%69%79%75%6e.%63%6f%6d" target="_blank">guyoung[at]aliyun.com</a>
 
